@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36429.23 d17.14
+VisualStudioVersion = 17.14.36429.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BayazitovEA.Sprint0.Task0.V0", "Tyuiu.BayazitovEA.Sprint0.Task0.V0\Tyuiu.BayazitovEA.Sprint0.Task0.V0.csproj", "{093ED51B-D715-464D-B6F1-F29B9D68DBA5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{AAC8C3DD-A505-44B0-BDB1-7570180372EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BayazitovEA.Sprint0.Task1.V0", "Tyuiu.BayazitovEA.Sprint0.Task1.V0\Tyuiu.BayazitovEA.Sprint0.Task1.V0.csproj", "{07AA4383-6DE9-4CA1-90E9-D0BC2EC95969}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{093ED51B-D715-464D-B6F1-F29B9D68DBA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{093ED51B-D715-464D-B6F1-F29B9D68DBA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{093ED51B-D715-464D-B6F1-F29B9D68DBA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07AA4383-6DE9-4CA1-90E9-D0BC2EC95969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07AA4383-6DE9-4CA1-90E9-D0BC2EC95969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07AA4383-6DE9-4CA1-90E9-D0BC2EC95969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07AA4383-6DE9-4CA1-90E9-D0BC2EC95969}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{093ED51B-D715-464D-B6F1-F29B9D68DBA5} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{07AA4383-6DE9-4CA1-90E9-D0BC2EC95969} = {AAC8C3DD-A505-44B0-BDB1-7570180372EF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {53136515-F3D0-498B-A981-81B9B535A189}
